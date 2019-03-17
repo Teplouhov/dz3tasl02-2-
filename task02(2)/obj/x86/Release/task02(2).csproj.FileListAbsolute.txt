@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\task02(2)\task02(2)\bin\Release\task02(2).exe
+d:\documents\visual studio 2010\Projects\task02(2)\task02(2)\bin\Release\task02(2).pdb
+d:\documents\visual studio 2010\Projects\task02(2)\task02(2)\obj\x86\Release\task02(2).exe
+d:\documents\visual studio 2010\Projects\task02(2)\task02(2)\obj\x86\Release\task02(2).pdb
